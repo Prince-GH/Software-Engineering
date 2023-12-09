@@ -1,0 +1,84 @@
+## Software Engineering
+### Unit 1
+- Software 
+  - Introduction
+  - Characteristics
+  - Components
+  - Applications
+  - Software Process Model
+  - Software Development Life Cycle
+- Models
+  - Introduction
+  - Waterfall Model
+  - Spiral Model
+  - Prototyping Model
+- Software Poject Management
+  - Introduction 
+  - Concept
+  - Components
+- Metrics
+  - Introduction
+  - Role of metrics 
+  - Types of Metrics
+    - Product Metrics
+    - Process Metrics
+    - Project Metrics
+  - Normalization of Metrics
+    - Size Oriented Metrics
+    - Function Oriented Metrics
+- Measurement
+  - Introduction
+  - Principles of Measurement
+    - Formulation
+    - Colection
+    - Analysis
+    - Interpretation
+    - Feedback 
+  - Types of Measurement
+    - Direct Measurement
+    - Indirect Measurement
+### Unit 2
+- Software Project Planning 
+  - Objective
+  - Guidelines
+  - Process
+  - Activities
+  - Decomposition Techniques
+  - Software Sizing
+  - Problem Based Estimation
+  - Cost estimation Model
+  - COCOMO Model
+  - The software Equation
+- System Analysis
+  - Introduction
+  - Design
+  - Principles of Structured Analysis
+  - Requirement Analysis
+  - Software requirement Specification
+  - Entity Relationship Diagram
+  - Data Dictionary
+  - Notations Tables of Data Dictionary
+### Unit 3
+- Software Design
+  - Objective
+  - Principles
+  - Concepts
+- Methodologies
+  - Introduction
+  - Data Design
+  - Architectural Design
+  - Procedural Design
+  - Object Oriented Concepts
+- Testing
+  - Testing Fundamentals
+  - Priciples of testing fundamentals
+  - Software Testability
+  - Test Cases
+  - Types of test cases
+  - White Box Testing
+  - Black Box Testing
+  - Testing Strategies
+    - Validation
+    - Verification
+    - Unit Testing
+    - Integration Testing 
