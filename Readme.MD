@@ -1,5 +1,7 @@
 ## Software Engineering
-### Unit 1
+<details>
+<summary>Unit 1</summary>
+
 - Software 
   - Introduction
   - Characteristics
@@ -37,7 +39,11 @@
   - Types of Measurement
     - Direct Measurement
     - Indirect Measurement
-### Unit 2
+</details>
+
+<details>
+<summary>Unit 2</summary>
+
 - Software Project Planning 
   - Objective
   - Guidelines
@@ -58,7 +64,12 @@
   - Entity Relationship Diagram
   - Data Dictionary
   - Notations Tables of Data Dictionary
-### Unit 3
+</details>
+
+
+<details>
+<summary>Unit 3</summary>
+
 - Software Design
   - Objective
   - Principles
@@ -83,3 +94,5 @@
     - Verification
     - Unit Testing
     - Integration Testing 
+
+</details>
