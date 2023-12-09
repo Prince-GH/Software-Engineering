@@ -71,7 +71,19 @@
 <summary>Unit 3</summary>
 
 - Software Design
+  - Introduction
+    - Mechanism to convert user requirements into sutable forms which helps the progrmmer in software coding and implementaion.
+    - SRS documentaion into simple form (`design`).
+    - Representing the clint's requirement. 
+    - In `SDLC` phase Design is the first steps to move the consentration from problem domain to solution domain.
+    - Elements of a System
+      - **Architecture** : Flowchart
+      - **Modules** : Focus on specific task like in sign up page username section is a kind of module that only takes the name of user. Password section takes the password. 
+      - **Component** : Perform a perticular functionality like sign up page store the data of user in database. login page porvide permission to authorized user.
+      - **Interface** : Connection of diffrent components and make a interface. eg: connection of components like signup page, login page, Home page, Product page, and Contact page makes the interface of a website.
+      
   - Objective
+    - 
   - Principles
   - Concepts
 - Methodologies
