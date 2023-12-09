@@ -92,7 +92,6 @@
   - Testing Strategies
     - Validation
     - Verification
-    - Unit Testing
     - Integration Testing 
 
 </details>
