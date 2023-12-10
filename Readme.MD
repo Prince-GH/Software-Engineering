@@ -117,9 +117,19 @@
     - **Database design :** Converting conceptual representation of data itno a physical database. eg: tables,columns,data type etc.
     - **Data security and access :** To provide the access to the data accroding to the importance and also use retional database like NoSql.
   - Architectural Design
-  
+    - Over all stractural of a system deals with components, intrface and communication between the modules and components. Mainly focused on modularity,scalablity and maintainability.
+    - **Component Identification :** Deal with componet and there functionality.
+    - **Interface Design :** Deal with communication between components.
   - Procedural Design
+    - Focused area system functionality and effciently.
+    - **Algorithm Design :** Design specific algorithm for specific task.
+    - **Coding :** Implement by programming language.
   - Object Oriented Concepts
+    - Key aspact are modularity, code reuseablity and maintainability.
+    - **Class :** Perform specific task.
+    - **Object :** Define functionaliy of an component using diffrent classes.
+    - **Inheritance :** Allow sub calsses to use the specification of parent class.
+    - **Polymorphism :** Using same code for diffrent uses also.
 - Testing
   - Testing Fundamentals
   - Priciples of testing fundamentals
