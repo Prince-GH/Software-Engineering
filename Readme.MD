@@ -81,15 +81,43 @@
       - **Modules** : Focus on specific task like in sign up page username section is a kind of module that only takes the name of user. Password section takes the password. 
       - **Component** : Perform a perticular functionality like sign up page store the data of user in database. login page porvide permission to authorized user.
       - **Interface** : Connection of diffrent components and make a interface. eg: connection of components like signup page, login page, Home page, Product page, and Contact page makes the interface of a website.
-      
+      - **Data** : To manage the information of the system.
+    - Levels of Software Design
+      - **Interface Design :** UI/UX Design, Ignored Working of internal system like flow of data.
+      - **Architecture Design :** Focused on flow of data from module to module and component to component. 
+      - **Detailed Design :** Focused on flow of the data how modules intract with other modules and components eg: modules of login page provide data to the server that gives permission to access the home page components. 
+
   - Objective
-    - 
+    - **Correctness :** Correctly implemented.
+    - **Understandability :** Easy to understand and implement.
+    - **Efficiency :** consider-Resource,time & cost.
+    - **Maintainability :** Easy to update & modify.
   - Principles
+    - **Should not suffer from "Tunnel Vision" :** Not only focus on completing the process but also focus on other effects.
+    - **Tracable to analysis model :** Easy to trace all the steps and follow all the software requirements to devlop high quality products.
+    - **Should not "Reinvent the wheel" :** Don't create a thing that is already exist. It will increase the overall development.
+    - **Accommodate Change :** Software should adjust there self according the user requirment.
+    - **Quality :** During the evaluation of the design, the quality of the design needs to be checked and focused upon.
+    - **Review to discover error :** During the evaluation of the design, check the comming error and improve it.
+    - **Design is not coding and coding is not design :** Design means to implement the logical way to sovle the problem and coding means to use the programming language to solve the logic.
   - Concepts
+    - **Abstraction :** Hidding the complex logic from user.
+    - **Modularity :** To implement the complex component, partition the component into smaller modules each dealing with a single task.
+    - **Architecture :** It acts as a software development blueprint and a flowchart.
+    - **Refinement :** Refinement is removing impurities and improving the quality of something. It deals with identifying and correcting possible errors.
+    - **Information and data hiding :** give permission to access the different module. eg: Permission like private(Restricated from outside class) and public(have access of any outside calss).
 - Methodologies
   - Introduction
+    - Understand the problem
+    - Focused on User requirment
+    - Defining overall system design
   - Data Design
+    - how data will be stored, accessed, manipulated, and secured to meet the requirements of the software application.
+    - **Data Modeling :** Conceptual representation of data entity, attributes, relationship within a system. eg: ERD (Entity relationship diagram). 
+    - **Database design :** Converting conceptual representation of data itno a physical database. eg: tables,columns,data type etc.
+    - **Data security and access :** To provide the access to the data accroding to the importance and also use retional database like NoSql.
   - Architectural Design
+  
   - Procedural Design
   - Object Oriented Concepts
 - Testing
