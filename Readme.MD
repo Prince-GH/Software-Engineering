@@ -4,7 +4,11 @@
 
 - Software 
   - Introduction
+     - Set of program.
   - Characteristics
+    - Functionality
+    - Relability
+    - 
   - Components
   - Applications
   - Software Process Model
@@ -131,7 +135,16 @@
     - **Inheritance :** Allow sub calsses to use the specification of parent class.
     - **Polymorphism :** Using same code for diffrent uses also.
 - Testing
+  - Introduction
+    - Testing the the operation to find the error using some techiniques like verification and validation.
   - Testing Fundamentals
+    - Operability
+    - Observality
+    - Cntrollability
+    - Simplicity
+    - Understandibility
+  - Objectiv of Software testing 
+    - 1
   - Priciples of testing fundamentals
   - Software Testability
   - Test Cases
