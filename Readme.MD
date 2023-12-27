@@ -139,12 +139,17 @@
     - Testing the the operation to find the error using some techiniques like verification and validation.
   - Testing Fundamentals
     - Operability
-    - Observality
+      - If a system is designed and implemented with quality in mind, relatively few bugs will block the execution of tests.
+    - Observability
+      - "What you see is what you test". Input provided as part of testing produce distinct outputs.
     - Cntrollability
+      - "The better we can control the software, the more testing can be automated and optimized." All possible outputs can be generated through some combination of input.
     - Simplicity
-    - Understandibility
-  - Objectiv of Software testing 
-    - 1
+      - "The less there is to test, the more quickly we can test it." The program should exhibit functional simplicity, structural simplicity, and code simplicity.
+    - Understandability
+      - The more information we have, the smarter we will test."
+  - Objective of Software testing 
+    - d
   - Priciples of testing fundamentals
   - Software Testability
   - Test Cases
